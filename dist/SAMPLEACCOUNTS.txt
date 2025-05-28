@@ -1,0 +1,7 @@
+Admin Side:
+Username: admin
+Password: 12345678
+
+Cashier Side:
+Username: cashier
+Password: 12345678
